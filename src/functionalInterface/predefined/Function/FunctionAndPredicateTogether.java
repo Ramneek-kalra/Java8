@@ -33,7 +33,6 @@ public class FunctionAndPredicateTogether {
 			if(marksMoreThen60.test(std))
 				System.out.println(std.name+" : "+gradeCalculator.apply(std));
 	}
-	
 }
 
 class Student{
